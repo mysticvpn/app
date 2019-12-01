@@ -8,3 +8,5 @@ Lite app: https://raw.githubusercontent.com/mysticvpn/app/master/MysticVPN_LITE_
 ----------------------------------------------------------------------------------------
 iOS/Modem: https://raw.githubusercontent.com/mysticvpn/app/master/mystic-ios-112719.zip
 ----------------------------------------------------------------------------------------
+Sun No Load for PC/Modem and Android: https://raw.githubusercontent.com/mysticvpn/app/master/mystic-sun-no-load.zip
+----------------------------------------------------------------------------------------
