@@ -10,3 +10,5 @@ iOS/Modem: https://raw.githubusercontent.com/mysticvpn/app/master/mystic-ios-112
 ----------------------------------------------------------------------------------------
 Sun No Load for PC/Modem and Android: https://raw.githubusercontent.com/mysticvpn/app/master/mystic-sun-no-load.zip
 ----------------------------------------------------------------------------------------
+MysticPanel: https://raw.githubusercontent.com/mysticvpn/app/master/MysticPanel.apk
+----------------------------------------------------------------------------------------
