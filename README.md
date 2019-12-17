@@ -12,3 +12,5 @@ Sun No Load for PC/Modem and Android: https://raw.githubusercontent.com/mysticvp
 ----------------------------------------------------------------------------------------
 MysticPanel: https://raw.githubusercontent.com/mysticvpn/app/master/MysticPanel.apk
 ----------------------------------------------------------------------------------------
+TPlink Router config: https://github.com/mysticvpn/app/raw/master/TPLINK%20SERVERS%20121719.zip
+----------------------------------------------------------------------------------------
