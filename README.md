@@ -1,6 +1,6 @@
 This link is for MysticVPN apps as of November 18, 2019
 
-PC app: https://raw.githubusercontent.com/mysticvpn/app/master/MysticVPN-PC.zip
+PC app: https://www.mediafire.com/file/brx7q4xv9by27fa/MysticVPN-PC2-03112020.zip/file
 ----------------------------------------------------------------------------------------
 SSL app: https://raw.githubusercontent.com/mysticvpn/app/master/MysticVPN_SSL_Aug_10.apk
 ----------------------------------------------------------------------------------------
