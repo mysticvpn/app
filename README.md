@@ -6,7 +6,7 @@ SSL app: https://raw.githubusercontent.com/mysticvpn/app/master/MysticVPN_SSL_Au
 ----------------------------------------------------------------------------------------
 Lite app: https://raw.githubusercontent.com/mysticvpn/app/master/MysticVPN_LITE_V_1.0.3.apk
 ----------------------------------------------------------------------------------------
-iOS/Modem: https://raw.githubusercontent.com/mysticvpn/app/master/mystic-ios-122319-2.zip
+iOS/Modem: https://www.mediafire.com/file/lg1hhyr0ufu61zc/TU%27PROMO_03_18_2020.zip/file
 ----------------------------------------------------------------------------------------
 Sun No Load for PC/Modem and Android: https://raw.githubusercontent.com/mysticvpn/app/master/mystic-sun-no-load.zip
 ----------------------------------------------------------------------------------------
