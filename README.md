@@ -8,8 +8,6 @@ Lite app: https://raw.githubusercontent.com/mysticvpn/app/master/MysticVPN_LITE_
 ----------------------------------------------------------------------------------------
 iOS/Modem: http://www.mediafire.com/file/rjnpbova1v6oyw8/mystic-ios-allsim-03222020.zip
 ----------------------------------------------------------------------------------------
-Sun No Load for PC/Modem and Android: https://raw.githubusercontent.com/mysticvpn/app/master/mystic-sun-no-load.zip
-----------------------------------------------------------------------------------------
 MysticPanel: https://www.mediafire.com/file/78454a1ut8kzy2j/MysticPanelv2.apk/file
 ----------------------------------------------------------------------------------------
 TPlink Router config: https://raw.githubusercontent.com/mysticvpn/app/master/TPLINK%20SERVERS%20121719%20final.zip
