@@ -12,9 +12,3 @@ MysticPanel: https://www.mediafire.com/file/78454a1ut8kzy2j/MysticPanelv2.apk/fi
 ----------------------------------------------------------------------------------------
 TPlink Router config: https://raw.githubusercontent.com/mysticvpn/app/master/TPLINK%20SERVERS%20121719%20final.zip
 ----------------------------------------------------------------------------------------
-
-MysticUDP (Gaming App) for SUN TU/CTC/PLAN Users
-version 1: https://www.mediafire.com/file/hj8ezb84qnq40sn/MysticVPN_UDP.apk/file
-version 2: https://www.mediafire.com/file/b846bfwhtvz4tt4/MysticUDP2.apk/file
-
-Enjoy
