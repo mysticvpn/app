@@ -4,6 +4,8 @@ PC app: https://www.mediafire.com/file/brx7q4xv9by27fa/MysticVPN-PC2-03112020.zi
 ----------------------------------------------------------------------------------------
 SSL app: https://raw.githubusercontent.com/mysticvpn/app/master/MysticVPN_SSL_Aug_10.apk
 ----------------------------------------------------------------------------------------
+PRO app: https://play.google.com/store/apps/details?id=mysticvpro.vpn.official.com
+----------------------------------------------------------------------------------------
 Lite app: https://raw.githubusercontent.com/mysticvpn/app/master/MysticVPN_LITE_V_1.0.3.apk
 ----------------------------------------------------------------------------------------
 iOS/Modem: http://www.mediafire.com/file/rjnpbova1v6oyw8/mystic-ios-allsim-03222020.zip
