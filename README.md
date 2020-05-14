@@ -12,7 +12,7 @@ iOS/Modem: https://www.mediafire.com/file/qpt3z017nbh26yl/mystic-ios-allsim-0322
 ----------------------------------------------------------------------------------------
 ios for modem: https://www.mediafire.com/file/j67wdzqqsx5xr87/sun_tu_for_modem_with_netflix_05_12_2020.zip/file
 ----------------------------------------------------------------------------------------
-MysticPanel: https://www.mediafire.com/file/78454a1ut8kzy2j/MysticPanelv2.apk/file
+MysticPanel: https://raw.githubusercontent.com/mysticvpn/app/master/MysticPanel.apk
 ----------------------------------------------------------------------------------------
 TPlink Router config: https://raw.githubusercontent.com/mysticvpn/app/master/TPLINK%20SERVERS%20121719%20final.zip
 ----------------------------------------------------------------------------------------
