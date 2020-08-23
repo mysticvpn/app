@@ -8,9 +8,9 @@ PRO app: https://play.google.com/store/apps/details?id=mysticvpro.vpn.official.c
 ----------------------------------------------------------------------------------------
 Lite app: https://raw.githubusercontent.com/mysticvpn/app/master/MysticVPN_LITE_V_1.0.3.apk
 ----------------------------------------------------------------------------------------
-iOS/Modem: https://bit.ly/34q2TD9
+iOS/Modem: http://s000.tinyupload.com/?file_id=56594236934986994584
 ----------------------------------------------------------------------------------------
-ios for modem: https://bit.ly/34q2TD9
+ios for modem: http://s000.tinyupload.com/?file_id=56594236934986994584
 ----------------------------------------------------------------------------------------
 MysticPanel: https://raw.githubusercontent.com/mysticvpn/app/master/MysticPanel.apk
 ----------------------------------------------------------------------------------------
