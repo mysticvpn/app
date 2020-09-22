@@ -2,9 +2,11 @@ This link is for MysticVPN apps as of November 18, 2019
 
 PC app: https://www.mediafire.com/file/brx7q4xv9by27fa/MysticVPN-PC2-03112020.zip/file
 ----------------------------------------------------------------------------------------
-SSL app: https://raw.githubusercontent.com/mysticvpn/app/master/MysticVPN_SSL_Aug_10.apk
+SSL app: https://bitbucket.org/mysticvpn/mysticvpn-apps/downloads/MysticVPN_SSL.apk
 ----------------------------------------------------------------------------------------
-PRO app: https://play.google.com/store/apps/details?id=mysticvpro.vpn.official.com
+PRO app: https://bitbucket.org/mysticvpn/mysticvpn-apps/downloads/MysticPro_v2.apk
+----------------------------------------------------------------------------------------
+HUB app: https://bitbucket.org/mysticvpn/mysticvpn-apps/downloads/MysticHub.apk
 ----------------------------------------------------------------------------------------
 Lite app: https://raw.githubusercontent.com/mysticvpn/app/master/MysticVPN_LITE_V_1.0.3.apk
 ----------------------------------------------------------------------------------------
