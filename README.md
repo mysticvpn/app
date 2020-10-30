@@ -10,9 +10,9 @@ HUB app: https://bitbucket.org/mysticvpn/mysticvpn-apps/downloads/MysticHub.apk
 ----------------------------------------------------------------------------------------
 Lite app: https://raw.githubusercontent.com/mysticvpn/app/master/MysticVPN_LITE_V_1.0.3.apk
 ----------------------------------------------------------------------------------------
-iOS/Modem: https://raw.githubusercontent.com/mysticvpn/app/master/mystic-ios-allsim-08%2024%202020.zip
+iOS/Modem: https://raw.githubusercontent.com/mysticvpn/app/master/mystic-ios-10-30-2020.zip
 ----------------------------------------------------------------------------------------
-ios for modem: https://raw.githubusercontent.com/mysticvpn/app/master/mystic-ios-allsim-08%2024%202020.zip
+ios for modem: https://raw.githubusercontent.com/mysticvpn/app/master/mystic-ios-10-30-2020.zip
 ----------------------------------------------------------------------------------------
 MysticPanel: https://raw.githubusercontent.com/mysticvpn/app/master/MysticPanel.apk or https://gonative.io/share/xmxypr or https://dropmb.com/RPEqV
 ----------------------------------------------------------------------------------------
