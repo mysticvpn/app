@@ -18,5 +18,5 @@ MysticPanel: https://raw.githubusercontent.com/mysticvpn/app/master/MysticPanel.
 ----------------------------------------------------------------------------------------
 TPlink Router config: https://raw.githubusercontent.com/mysticvpn/app/master/TPLINK%20SERVERS%20121719%20final.zip
 ----------------------------------------------------------------------------------------
-UDP app - https://play.google.com/store/apps/details?id=mysticlite.udp.com.ph
+GTM No Load app - https://dropmb.com/SjNKZ
 ----------------------------------------------------------------------------------------
