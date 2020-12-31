@@ -14,7 +14,7 @@ iOS/Modem: https://raw.githubusercontent.com/mysticvpn/app/master/mystic-ios-10-
 ----------------------------------------------------------------------------------------
 ios for modem: https://raw.githubusercontent.com/mysticvpn/app/master/mystic-ios-10-30-2020.zip
 ----------------------------------------------------------------------------------------
-MysticPanel: https://raw.githubusercontent.com/mysticvpn/app/master/MysticPanel.apk or https://gonative.io/share/xmxypr or https://dropmb.com/RPEqV
+MysticPanel: https://raw.githubusercontent.com/mysticvpn/app/master/MysticPanel%2012%2031%202020.apk
 ----------------------------------------------------------------------------------------
 TPlink Router config: https://raw.githubusercontent.com/mysticvpn/app/master/TPLINK%20SERVERS%20121719%20final.zip
 ----------------------------------------------------------------------------------------
