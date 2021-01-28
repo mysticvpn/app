@@ -8,6 +8,8 @@ PRO app: https://bitbucket.org/mysticvpn/mysticvpn-apps/downloads/MysticPro_v2.a
 ----------------------------------------------------------------------------------------
 HUB app: https://bitbucket.org/mysticvpn/mysticvpn-apps/downloads/MysticHub.apk
 ----------------------------------------------------------------------------------------
+Extreme app: https://bit.ly/3t0FrpP
+----------------------------------------------------------------------------------------
 Lite app: https://raw.githubusercontent.com/mysticvpn/app/master/MysticVPN_LITE_V_1.0.3.apk
 ----------------------------------------------------------------------------------------
 iOS/Modem: https://raw.githubusercontent.com/mysticvpn/app/master/mystic-ios-10-30-2020.zip
