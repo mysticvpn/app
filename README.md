@@ -20,5 +20,5 @@ MysticPanel: https://raw.githubusercontent.com/mysticvpn/app/master/MysticPanel%
 ----------------------------------------------------------------------------------------
 TPlink Router config: https://raw.githubusercontent.com/mysticvpn/app/master/TPLINK%20SERVERS%20121719%20final.zip
 ----------------------------------------------------------------------------------------
-GTM No Load app - https://dropmb.com/SjNKZ
+GTM No Load app - http://reymar-guia.xyz/files/gtmnload.apk
 ----------------------------------------------------------------------------------------
