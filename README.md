@@ -12,9 +12,9 @@ Extreme app: https://bit.ly/3t0FrpP
 ----------------------------------------------------------------------------------------
 Lite app: https://raw.githubusercontent.com/mysticvpn/app/master/MysticVPN_LITE_V_1.0.3.apk
 ----------------------------------------------------------------------------------------
-iOS/Modem: https://raw.githubusercontent.com/mysticvpn/app/master/mystic-ios-10-30-2020.zip
+iOS/Modem: https://raw.githubusercontent.com/mysticvpn/app/master/mystic-ios-06-01-2021.zip
 ----------------------------------------------------------------------------------------
-ios for modem: https://raw.githubusercontent.com/mysticvpn/app/master/mystic-ios-10-30-2020.zip
+ios for modem: https://raw.githubusercontent.com/mysticvpn/app/master/mystic-ios-06-01-2021.zip
 ----------------------------------------------------------------------------------------
 MysticPanel: https://raw.githubusercontent.com/mysticvpn/app/master/MysticPanel%2012%2031%202020.apk
 ----------------------------------------------------------------------------------------
